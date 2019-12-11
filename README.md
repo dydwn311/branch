@@ -7,3 +7,5 @@
 3. 브랜치 이동 : 'git checkout 브랜치 이름'
 4. 브랜치 삭제 : 'git branch -d 브랜치 이름'
 5. 브랜치 생성+이동 : 'git checkout -d 브랜치 이름'
+
+![브랜치 이미지](./펭수.png)
